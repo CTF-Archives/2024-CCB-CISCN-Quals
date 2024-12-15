@@ -7,7 +7,7 @@ A1natas战队WriteUp：https://www.a1natas.com/2024-CISCNxCCB/
 ## ezruby WEB安全
 解出：1 分值：500
 
-**[附件下载](ezruby.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/ezruby.zip)**
 
 ## easyweb WEB安全
 解出：1 分值：500
@@ -22,88 +22,88 @@ A1natas战队WriteUp：https://www.a1natas.com/2024-CISCNxCCB/
 ## BookManager WEB安全
 解出：0 分值：500
 
-**[附件下载](bookmanager.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/bookmanager.zip)**
 
 
 
 ## babypqc 密码学
 解出：2 分值：477
 
-**[附件下载](babypqc.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/babypqc.zip)**
 
 ## LWEWL 密码学
 解出：6 分值：400
 
-**[附件下载](lwewl.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/lwewl.zip)**
 
 ## fffffhash 密码学
 解出：177 分值：52
 
-**[附件下载](fffffhash.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/fffffhash.zip)**
 
 ## rasnd 密码学
 解出：451 分值：50
 
-**[附件下载](rasnd.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/rasnd.zip)**
 
 
 
 ## cython 逆向工程
 解出：7 分值：385
 
-**[附件下载](cython.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/cython.zip)**
 
 ## ezCsky 逆向工程
 解出：526 分值：50
 
-**[附件下载](ezCsky.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/ezCsky.zip)**
 
 ## dump 逆向工程
 解出：280 分值：50
 
-**[附件下载](dump.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/dump.zip)**
 
 ## rand0m 逆向工程
 解出：27 分值：218
 
-**[附件下载](rand0m.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/rand0m.zip)**
 
 ## vt 逆向工程
 解出：0 分值：500
 
-**[附件下载](vt.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/vt.zip)**
 
 
 
 ## novel1 PWN
 解出：20 分值：257
 
-**[附件下载](novel1.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/novel1.zip)**
 
 ## Anyip PWN
 解出：2 分值：477
 
-**[附件下载](anyip.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/anyip.zip)**
 
 ## avm PWN
 解出：102 分值：83
 
-**[附件下载](avm.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/avm.zip)**
 
 ## anote PWN
 解出：535 分值：50
 
-**[附件下载](anote.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/anote.zip)**
 
 ## server PWN
 解出：0 分值：500
 
-**[附件下载](server.tar.gz)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/server.tar.gz)**
 
 ## Works PWN
 解出：0 分值：500
 
-**[附件下载](works.zip)**
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/works.zip)**
 
 
 
@@ -112,10 +112,16 @@ A1natas战队WriteUp：https://www.a1natas.com/2024-CISCNxCCB/
 
 李华的电脑被植入了恶意程序，恶意程序发送了一个流量包，请你尝试根据截获的流量和病毒样本程序，获取Windows用户Lihua的登录密码。最终提交格式为为NTLM解密后的密码，格式为flag{password}
 
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/Kiwi.zip)**
+
+
 ## sxmisc 威胁检测与网络流量分析
 解出：1 分值：300
 
 无
+
+**[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/sxmisc.zip)**
+
 
 ## sc05_1 威胁检测与网络流量分析
 解出：608 分值：40
