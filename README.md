@@ -6,6 +6,9 @@ A1natas战队WriteUp：https://www.a1natas.com/2024-CISCNxCCB/
 
 ## ezruby WEB安全
 解出：1 分值：500
+
+**[附件下载](ezruby.zip)**
+
 ## easyweb WEB安全
 解出：1 分值：500
 ## sxweb2 WEB安全
@@ -19,41 +22,89 @@ A1natas战队WriteUp：https://www.a1natas.com/2024-CISCNxCCB/
 ## BookManager WEB安全
 解出：0 分值：500
 
+**[附件下载](bookmanager.zip)**
+
+
 
 ## babypqc 密码学
 解出：2 分值：477
+
+**[附件下载](babypqc.zip)**
+
 ## LWEWL 密码学
 解出：6 分值：400
+
+**[附件下载](lwewl.zip)**
+
 ## fffffhash 密码学
 解出：177 分值：52
+
+**[附件下载](fffffhash.zip)**
+
 ## rasnd 密码学
 解出：451 分值：50
+
+**[附件下载](rasnd.zip)**
+
 
 
 ## cython 逆向工程
 解出：7 分值：385
+
+**[附件下载](cython.zip)**
+
 ## ezCsky 逆向工程
 解出：526 分值：50
+
+**[附件下载](ezCsky.zip)**
+
 ## dump 逆向工程
 解出：280 分值：50
+
+**[附件下载](dump.zip)**
+
 ## rand0m 逆向工程
 解出：27 分值：218
+
+**[附件下载](rand0m.zip)**
+
 ## vt 逆向工程
 解出：0 分值：500
+
+**[附件下载](vt.zip)**
+
 
 
 ## novel1 PWN
 解出：20 分值：257
+
+**[附件下载](novel1.zip)**
+
 ## Anyip PWN
 解出：2 分值：477
+
+**[附件下载](anyip.zip)**
+
 ## avm PWN
 解出：102 分值：83
+
+**[附件下载](avm.zip)**
+
 ## anote PWN
 解出：535 分值：50
+
+**[附件下载](anote.zip)**
+
 ## server PWN
 解出：0 分值：500
+
+**[附件下载](server.tar.gz)**
+
 ## Works PWN
 解出：0 分值：500
+
+**[附件下载](works.zip)**
+
 
 
 ## Kiwi 威胁检测与网络流量分析
