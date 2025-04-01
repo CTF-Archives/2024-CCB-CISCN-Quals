@@ -161,7 +161,7 @@ A1natas战队WriteUp：https://www.a1natas.com/2024-CISCNxCCB/
 
 **[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/attachments/works.zip)**
 
-
+## 威胁检测与网络流量分析
 
 ### Kiwi
 解出：56 分值：300
@@ -169,8 +169,6 @@ A1natas战队WriteUp：https://www.a1natas.com/2024-CISCNxCCB/
 > 李华的电脑被植入了恶意程序，恶意程序发送了一个流量包，请你尝试根据截获的流量和病毒样本程序，获取Windows用户Lihua的登录密码。最终提交格式为为NTLM解密后的密码，格式为flag{password}
 
 **[附件下载](https://github.com/CTF-Archives/2024-ccbciscn/raw/refs/heads/main/attachments/Kiwi.zip)**
-
-## 威胁检测与网络流量分析
 
 ### sxmisc
 解出：1 分值：300
