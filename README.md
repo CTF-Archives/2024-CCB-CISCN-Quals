@@ -2,7 +2,7 @@
 第十八届全国大学生信息安全竞赛（创新实践能力赛）暨第二届“长城杯”铁人三项赛（防护赛）
 
 所有附件：https://pan.baidu.com/s/1PQNx3li7YF6Hv_FQ0QhcvQ?pwd=xabe </br>
-A1natas战队WriteUp：https://www.a1natas.com/2024-CISCNxCCB/
+A1natas战队WriteUp：[https://www.a1natas.com/2024-CISCNxCCB/](https://wp.a1natas.com/2024-CISCNxCCB/)
 
 ## WEB安全
 ### ezruby
